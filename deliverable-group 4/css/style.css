@@ -17,6 +17,19 @@
         padding: 20px 14px;
     }
 
+
+#header > div > div.col-md-2.col-md-offset-4 > a {
+    margin-top: 10px;
+    .overlay-title
+
+{
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    color: darkgray;
+    text-shadow: 1px 1px 1px #000;
+}
+
 #header > div > div.col-md-2.col-md-offset-4 > a {
     margin-top: 10px;
 }
@@ -62,6 +75,8 @@
 .container-md #subject_1 {
     background-color: #FFC700;
 }
+
+/*Page colors*/
 
 #subject_1 {
     background-color: #FFC700;
@@ -109,8 +124,8 @@
 
 #content div a img {
     width: 100%;
-    object-fit: cover;
     height: 50%;
+    object-fit: cover;
 }
 
 #content div a div {
