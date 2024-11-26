@@ -20,9 +20,10 @@
 
 #header > div > div.col-md-2.col-md-offset-4 > a {
     margin-top: 10px;
-    .overlay-title
 
-{
+}
+
+.overlay-title {
     position: absolute;
     left: 5%;
     top: 5%;
